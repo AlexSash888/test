@@ -1,6 +1,16 @@
 html {
     font-size: 15px;
+    box-sizing:border-box;
 }
+
+* {
+    box-sizing: inherit;
+}
+
+li {
+   list-style: none;
+}
+
 
 body {
     margin: 0;
