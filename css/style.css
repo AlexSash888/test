@@ -60,3 +60,13 @@ body {
     border-color: #0891e6;
     background-color:#ccc;
 }
+
+@media (max-width: 992px){
+
+.col-md-7 {
+  width: 58.33333333%;
+  flex-basis: 50%;
+}
+}
+
+
